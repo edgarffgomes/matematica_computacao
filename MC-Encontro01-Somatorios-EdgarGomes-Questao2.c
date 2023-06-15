@@ -2,7 +2,7 @@
 #include<stdlib.h>
 #include<locale.h>
 #include<time.h>
-#define tam 5
+#define tam 50
 
 void preencheVetor(int V[tam]);
 void imprimeVetor (int V[tam]);
